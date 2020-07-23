@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\Components",
+    "\\src\\app\\Components\\demo-component",
+    "\\src\\app\\Components\\home",
+    "\\src\\app\\Services",
+    "\\src\\app\\Services\\backend-service",
+    "\\src\\assets",
+    "\\src\\environments"
+  ],
+  "PreviewInSolutionExplorer": false
+}
